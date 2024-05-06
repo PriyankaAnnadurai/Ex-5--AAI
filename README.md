@@ -70,7 +70,7 @@ plt.show()
 
 <H3>Output:</H3>
 
-![image](https://github.com/PriyankaAnnadurai/Ex-5--AAI/assets/118351569/744280e6-9c4b-4548-932d-7fe2736726c9)
+<img src=https://github.com/PriyankaAnnadurai/Ex-5--AAI/assets/118351569/744280e6-9c4b-4548-932d-7fe2736726c9 height=300 width=300>
 
 
 <H3>Results:</H3>
